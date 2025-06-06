@@ -10,7 +10,7 @@
     "compatibility": {
         "minimum": 12,
         "verified": "12.327",
-        "maximum": 12
+        "maximum": 13
     },
     "scripts": ["dist/bundle.js"],
     "styles": [
