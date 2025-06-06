@@ -1,7 +1,7 @@
 {
-    "id": "pf2e-monster-maker",
-    "name": "pf2e-monster-maker",
-    "title": "PF2E Monster Maker",
+    "id": "pf2e-monster-maker-test",
+    "name": "pf2e-monster-maker-test",
+    "title": "PF2E Monster Maker Test",
     "description": "A module that allows you to make an NPC/Monster from scratch using Creature Building Rules. To use create a new NPC sheet and use the Monster Maker button located in top-right corner of the sheet.",
     "version": "REPLACED AUTOMATICALLY",
     "authors": [{"name": "miki4920"}],
